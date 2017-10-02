@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484032375 source:c:\users\mittr\documents\codeblocksc++\dsaad\main.c
+	<stdio.h>
+	<stdlib.h>
+

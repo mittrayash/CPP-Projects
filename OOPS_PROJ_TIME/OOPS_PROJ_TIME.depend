@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1487066911 source:c:\users\mittr\documents\codeblocksc++\oops_proj_time\main.cpp
+	<iostream>
+	<ctime>
+

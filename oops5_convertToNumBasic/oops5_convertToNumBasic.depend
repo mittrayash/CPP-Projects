@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1487066406 source:c:\users\mittr\documents\codeblocksc++\oops5_converttonumbasic\main.cpp
+	<iostream>
+	<string.h>
+

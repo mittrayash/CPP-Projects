@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490097228 source:c:\users\mittr\documents\codeblocksc++\oops7_concatenate\main.cpp
+	<iostream>
+	<string.h>
+

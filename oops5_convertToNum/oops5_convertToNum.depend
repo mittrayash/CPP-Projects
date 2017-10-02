@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1487058843 source:c:\users\mittr\documents\codeblocksc++\oops5_converttonum\main.cpp
+	<iostream>
+	<sstream>
+

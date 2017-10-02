@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492257546 source:c:\users\mittr\documents\codeblocksc++\oops9_strng\main.cpp
+	<iostream>
+	<string.h>
+

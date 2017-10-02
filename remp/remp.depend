@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492203529 source:c:\users\mittr\documents\codeblocksc++\remp\main.cpp
+	<fstream>
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495663718 source:c:\users\mittr\documents\codeblocksc++\multilevel\main.cpp
+	<iostream>
+	<fstream>
+

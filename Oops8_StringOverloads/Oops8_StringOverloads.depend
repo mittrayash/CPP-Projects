@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490694201 source:c:\users\mittr\documents\codeblocksc++\oops8_stringoverloads\main.cpp
+	<iostream>
+	<string.h>
+

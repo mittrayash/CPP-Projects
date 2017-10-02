@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492204116 source:c:\users\mittr\documents\codeblocksc++\oops9_readwrite\main.cpp
+	<iostream>
+	<fstream>
+

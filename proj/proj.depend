@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1485148867 source:c:\users\mittr\documents\codeblocksc++\proj\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
